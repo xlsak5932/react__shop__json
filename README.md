@@ -1,3 +1,6 @@
+### 사이트 주소
+https://xlsak5932.github.io/shop__json/
+
 ### 사용한 기술 스택
 react, react-icon
 
